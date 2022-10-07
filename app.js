@@ -1,1 +1,1 @@
-'Mi vida sera breve';
+'Mi vida no sera tan breve';
